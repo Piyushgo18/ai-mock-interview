@@ -10,7 +10,11 @@
 [![Clerk](https://img.shields.io/badge/Clerk-6.22.0-purple)](https://clerk.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-blue)](https://tailwindcss.com/)
 
+### 🔗 Live Demo
 
+👉 [Visit the live app here](https://ai-mock-interview-dusky.vercel.app/)
+
+ 
 </div>
 
 ## 🌟 Overview
